@@ -1,0 +1,25 @@
+{
+  "name": "richmarker-amd",
+  "version": "0.0.1",
+  "homepage": "https://github.com/chirag04/richmarker-amd",
+  "authors": [
+    "chirag jain <jain_chirag04@yahoo.com>"
+  ],
+  "description": "Bower package for Google Map Utility Library richmarker",
+  "main": "src/richmarker.js",
+  "keywords": [
+    "google",
+    "map",
+    "richmarker",
+    "marker",
+    "infowindow"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
