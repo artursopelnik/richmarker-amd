@@ -1,4 +1,4 @@
-define(['async!http://maps.googleapis.com/maps/api/js?v=3.16&sensor=false&libraries=places,geometry'], function() {
+define(['async!https://maps.googleapis.com/maps/api/js?v=3.16&sensor=false&libraries=places,geometry'], function() {
 
 // ==ClosureCompiler==
 // @compilation_level ADVANCED_OPTIMIZATIONS
