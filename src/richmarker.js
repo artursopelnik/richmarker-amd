@@ -1,4 +1,4 @@
-define(['async!' + window.location.protocol + '//maps.googleapis.com/maps/api/js?v=3.16&sensor=false&libraries=places,geometry&key=' + window.gmapsApiKey], function() {
+define(['async!' + window.location.protocol + '//maps.googleapis.com/maps/api/js?v=3.16&sensor=false&libraries=places,geometry&key=' + window.richmarkerGmapsApiKey], function() {
 
 // ==ClosureCompiler==
 // @compilation_level ADVANCED_OPTIMIZATIONS
